@@ -10,4 +10,4 @@ En Este Proyecto Veremos los Metodos de:
 # Requiere de:
 + Python 3.11 o superior instalado
 + Recomendado: Editor como VS Code
-+Librería unittest (viene incluida con Python)
++ Librería unittest (viene incluida con Python)
