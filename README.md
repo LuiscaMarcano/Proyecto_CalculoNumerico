@@ -1,3 +1,6 @@
+# Realizado Por :
+Bachiller Luis Carlos MArcano
+Cedula 31 554563
 # Proyecto_CalculoNumerico
 Métodos y Algoritmos para, la Asignatura De Calculo Numérico, UDONE
 
